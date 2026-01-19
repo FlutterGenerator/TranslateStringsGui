@@ -1,7 +1,7 @@
 ## TranslateStringsGui
 
-![](img1.jpg)
-![](img2.jpg)
+![](1.jpg)
+![](2.jpg)
 
 ## Strings.XML Auto Translator
 
@@ -13,4 +13,4 @@ pip install googletrans
 
 ## The Translation process in all countries of the world
 
-![](img3.jpg)
+![](3.jpg)
