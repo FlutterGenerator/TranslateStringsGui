@@ -23,6 +23,6 @@ pip install googletrans
 
 * Modded by tojik_proof_93 @FlutterGenerator
 
-## The Translation process in all countries of the world
+## Does the translation process work in all countries of the World or Not?
 
 ![](3.jpg)
