@@ -5,6 +5,16 @@
 
 ## Strings.XML Auto Translator
 
+* /storage/emulated/0/Download/strings.xml
+
+```update
+pkg update && pkg upgrade
+```
+
+```python
+pkg install python
+```
+
 ```pip
 pip install googletrans
 ```
