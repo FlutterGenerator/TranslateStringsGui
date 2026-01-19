@@ -1,6 +1,6 @@
 ## TranslateStringsGui
 
-[![License Info](https://img.shields.io/badge/License-GPL-3-blue.svg?style=flat-square)](https://github.com/FlutterGenerator/TranslateStringsGui/blob/main/LICENSE)
+[![License Info](https://img.shields.io/badge/License-GPL-3.0-blue.svg?style=flat-square)](https://github.com/FlutterGenerator/TranslateStringsGui/blob/main/LICENSE)
 
 ![](1.jpg)
 ![](2.jpg)
